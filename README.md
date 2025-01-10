@@ -12,8 +12,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-
+<!--
+#### 기본 사용언어
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> 
@@ -94,3 +94,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Redux-toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" >
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
 <img src="https://img.shields.io/badge/Axios-007CE2?style=for-the-badge&logo=axios&logoColor=white" >
+-->
